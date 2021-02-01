@@ -15,7 +15,7 @@ import javax.persistence.Persistence;
  * @author Wilmer
  */
 public class JPAUtil{
-      String  usuario = "sivent";
+      String  usuario = "root";
       String pass = "root";
       String PU = "ventasPU";
     

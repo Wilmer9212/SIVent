@@ -19,7 +19,7 @@ public class ConnectionDB {
 
 
 private static final String DB = "database_sofit";
-private static final String DBuser = "root2";
+private static final String DBuser = "root";
 private static final String DBpwd = "root";
 private static final String DBurl = "jdbc:mysql://localhost:3306/" + DB;
 Connection Conector;
